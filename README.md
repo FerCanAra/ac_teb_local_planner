@@ -1,4 +1,4 @@
-# Vision-Based Aisle Estimation and Width-Adaptive Centring for Nonlinear Timed-Elastic-Band MPC of Mobile Robots in Unmapped Mediterranean Greenhouses
+# Vision-Based Aisle Estimation and Width-Adaptive Centring for Nonlinear Timed-Elastic-Band MPC of Mobile Robots in Unmapped Mediterranean Greenhouses 🔁 
 
 [![Last Updated](https://img.shields.io/badge/last%20updated-2026--11-blue)](.)
 [![DOI](https://zenodo.org/badge/1424278083.svg)](https://doi.org/10.5281/zenodo.23451492)
