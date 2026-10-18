@@ -1,7 +1,7 @@
 # Vision-Based Aisle Estimation and Width-Adaptive Centring for Nonlinear Timed-Elastic-Band MPC of Mobile Robots in Unmapped Mediterranean Greenhouses
 
 [![Last Updated](https://img.shields.io/badge/last%20updated-2026--11-blue)](.)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22679881.svg)](https://doi.org/10.5281/zenodo.23087154)
+[![DOI](https://zenodo.org/badge/1424278083.svg)](https://doi.org/10.5281/zenodo.23451492)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 
 **AC-TEB** is a ROS 2 / Nav2 local planner that keeps a mobile robot on the centreline of narrow crop aisles using only a depth camera. It extends the
@@ -43,9 +43,6 @@ ac_teb_local_planner/
 └── rviz/c2_greenhouse.rviz
 ```
 
----
-
-
 📑 Citation
 ------------------
 *Paper citation*
@@ -64,8 +61,8 @@ TITLE = {Vision-Based Aisle Estimation and Width-Adaptive Centring for Nonlinear
   title   = {Vision-Based Aisle Estimation and Width-Adaptive Centring for Nonlinear Timed-Elastic-Band MPC of Mobile Robots in Unmapped Mediterranean Greenhouses},
   version = {0.0.1},
   year    = {2026},
-  doi     = {https://doi.org/10.5281/zenodo.23087154},
-  url     = {https://github.com/FerCanAra/ros2_greenseg.git}
+  doi     = {https://doi.org/10.5281/zenodo.23451492},
+  url     = {https://github.com/FerCanAra/ac_teb_local_planner}
 }
 ```
 📜 License
