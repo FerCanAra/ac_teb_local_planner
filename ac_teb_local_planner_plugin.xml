@@ -1,0 +1,8 @@
+<library path="ac_teb_local_planner">
+	<class type="ac_teb_local_planner::AcTebLocalPlannerROS" base_class_type="nav2_core::Controller">
+		<description>
+			AC-TEB: Timed-Elastic-Band MPC with perception-driven aisle centering
+			for autonomous navigation in greenhouse aisles.
+		</description>
+	</class>
+</library>
